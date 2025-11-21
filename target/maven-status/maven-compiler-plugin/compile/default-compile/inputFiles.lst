@@ -1,0 +1,12 @@
+C:\Users\dpaterno\Desktop\proyecto_final_diego_paterno_java\src\main\java\com\tuempresa\articulosapi\entity\Producto.java
+C:\Users\dpaterno\Desktop\proyecto_final_diego_paterno_java\src\main\java\com\tuempresa\articulosapi\service\ProductoService.java
+C:\Users\dpaterno\Desktop\proyecto_final_diego_paterno_java\src\main\java\com\tuempresa\articulosapi\ArticulosApiApplication.java
+C:\Users\dpaterno\Desktop\proyecto_final_diego_paterno_java\src\main\java\com\tuempresa\articulosapi\dto\ProductoRequest.java
+C:\Users\dpaterno\Desktop\proyecto_final_diego_paterno_java\src\main\java\com\tuempresa\articulosapi\dto\ProductoResponse.java
+C:\Users\dpaterno\Desktop\proyecto_final_diego_paterno_java\src\main\java\com\tuempresa\articulosapi\controller\ProductoController.java
+C:\Users\dpaterno\Desktop\proyecto_final_diego_paterno_java\src\main\java\com\tuempresa\articulosapi\service\ProductoServiceImpl.java
+C:\Users\dpaterno\Desktop\proyecto_final_diego_paterno_java\src\main\java\com\tuempresa\articulosapi\exception\GlobalExceptionHandler.java
+C:\Users\dpaterno\Desktop\proyecto_final_diego_paterno_java\src\main\java\com\tuempresa\articulosapi\repository\ProductoRepository.java
+C:\Users\dpaterno\Desktop\proyecto_final_diego_paterno_java\src\main\java\com\tuempresa\articulosapi\exception\ResourceNotFoundException.java
+C:\Users\dpaterno\Desktop\proyecto_final_diego_paterno_java\src\main\java\com\tuempresa\articulosapi\exception\BadRequestException.java
+C:\Users\dpaterno\Desktop\proyecto_final_diego_paterno_java\src\main\java\com\tuempresa\articulosapi\dto\ProductoPatchRequest.java

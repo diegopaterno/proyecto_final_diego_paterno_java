@@ -1,0 +1,13 @@
+com\tuempresa\articulosapi\repository\ProductoRepository.class
+com\tuempresa\articulosapi\controller\ProductoController.class
+com\tuempresa\articulosapi\dto\ProductoPatchRequest.class
+com\tuempresa\articulosapi\exception\GlobalExceptionHandler.class
+com\tuempresa\articulosapi\service\ProductoService.class
+com\tuempresa\articulosapi\entity\Producto$ProductoBuilder.class
+com\tuempresa\articulosapi\entity\Producto.class
+com\tuempresa\articulosapi\dto\ProductoRequest.class
+com\tuempresa\articulosapi\exception\BadRequestException.class
+com\tuempresa\articulosapi\ArticulosApiApplication.class
+com\tuempresa\articulosapi\exception\ResourceNotFoundException.class
+com\tuempresa\articulosapi\service\ProductoServiceImpl.class
+com\tuempresa\articulosapi\dto\ProductoResponse.class
