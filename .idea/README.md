@@ -20,10 +20,10 @@ JDBC URL: `jdbc:h2:mem:articulosdb`
 
 ## Endpoints
 
-- GET `/api/productos`
-- GET `/api/productos/{id}`
-- GET `/api/productos/buscar?nombre=xxx`
-- POST `/api/productos`
-- PUT `/api/productos/{id}`
-- PATCH `/api/productos/{id}`   (precio/stock opcional)
-- DELETE `/api/productos/{id}`
+- GET `/api/productos  || Listar productos`
+- GET `/api/productos/{id}  || Obtener producto por ID`
+- GET `/api/productos/buscar?nombre=xxx   ||  Buscar productos por nombre`
+- POST `/api/productos || Crear producto`
+- PUT `/api/productos/{id} || Actualizar producto completo`
+- PATCH `/api/productos/{id} || Actualizar precio/stock`
+- DELETE `/api/productos/{id} Eliminar producto`
